@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\bin\Debug\_Parallel.ForEach.exe.config
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\bin\Debug\_Parallel.ForEach.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\bin\Debug\_Parallel.ForEach.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\bin\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\bin\Debug\Util.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.csproj.CopyComplete
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.ForEach\obj\Debug\_Parallel.ForEach.pdb

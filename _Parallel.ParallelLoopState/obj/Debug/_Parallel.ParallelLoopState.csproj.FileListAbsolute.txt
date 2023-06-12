@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\bin\Debug\_Parallel.ParallelLoopState.exe.config
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\bin\Debug\_Parallel.ParallelLoopState.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\bin\Debug\_Parallel.ParallelLoopState.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\bin\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\bin\Debug\Util.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.csproj.CopyComplete
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.ParallelLoopState\obj\Debug\_Parallel.ParallelLoopState.pdb

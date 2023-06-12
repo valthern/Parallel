@@ -1,0 +1,6 @@
+C:\Users\Omar\source\repos\Parallel\Util\bin\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\Util\bin\Debug\Util.pdb
+C:\Users\Omar\source\repos\Parallel\Util\obj\Debug\_Parallel.Util.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Parallel\Util\obj\Debug\_Parallel.Util.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Parallel\Util\obj\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\Util\obj\Debug\Util.pdb

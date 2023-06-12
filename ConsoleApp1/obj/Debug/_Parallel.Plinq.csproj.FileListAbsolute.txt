@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\bin\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\bin\Debug\Util.pdb
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\_Parallel.Plinq.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\_Parallel.Plinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\_Parallel.Plinq.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\_Parallel.Plinq.csproj.CopyComplete
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Omar\source\repos\Parallel\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

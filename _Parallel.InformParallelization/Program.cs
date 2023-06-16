@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _Parallel.Plinq
+namespace _Parallel.InformParallelization
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var result = from person in Utilerias.People.AsParallel()
+            var result = from person in Utilerias.People.AsParallel().WithDegreeOfParallelism(4).WithExecutionMode(ParallelExecutionMode.ForceParallelism)
                          where person.City == "Seattle"
                          select person;
 

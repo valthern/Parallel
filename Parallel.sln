@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Parallel.ParallelLoopState
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Parallel.Plinq", "ConsoleApp1\_Parallel.Plinq.csproj", "{D52DDE2A-968C-4779-9223-BF1EB53FA4CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Parallel.InformParallelization", "_Parallel.InformParallelization\_Parallel.InformParallelization.csproj", "{6B686927-BF44-4E02-B179-8C796B260E63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D52DDE2A-968C-4779-9223-BF1EB53FA4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52DDE2A-968C-4779-9223-BF1EB53FA4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52DDE2A-968C-4779-9223-BF1EB53FA4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B686927-BF44-4E02-B179-8C796B260E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B686927-BF44-4E02-B179-8C796B260E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B686927-BF44-4E02-B179-8C796B260E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B686927-BF44-4E02-B179-8C796B260E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

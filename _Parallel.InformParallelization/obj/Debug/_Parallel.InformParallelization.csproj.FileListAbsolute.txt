@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\bin\Debug\_Parallel.InformParallelization.exe.config
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\bin\Debug\_Parallel.InformParallelization.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\bin\Debug\_Parallel.InformParallelization.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\bin\Debug\Util.dll
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\bin\Debug\Util.pdb
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.csproj.CopyComplete
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.exe
+C:\Users\Omar\source\repos\Parallel\_Parallel.InformParallelization\obj\Debug\_Parallel.InformParallelization.pdb
